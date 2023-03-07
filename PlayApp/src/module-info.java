@@ -1,2 +1,3 @@
 module Play {
+	requires junit;
 }
